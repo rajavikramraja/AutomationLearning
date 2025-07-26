@@ -68,7 +68,7 @@ duplicateValue.put(dup1, 1);
 			}
 			
 		
-		System.out.println(rev);	
+		System.out.println("String"+rev);	
 		if(Arrays.asList(pal).contains(rev)) {
 		//if (pal.equalsIgnoreCase(rev)){
 	System.out.println("Is Palindrome");
